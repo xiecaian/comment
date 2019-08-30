@@ -1,0 +1,10 @@
+[ 2019-06-24T14:22:41+08:00 ] ::1 /api_for_study/Shopping_cart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `js_mobile_phone` [ RunTime:0.0593s ]
+SQL: SELECT * FROM `js_mobile_phone` WHERE `status` = 1 ORDER BY id desc  [ RunTime:0.0028s ]
+

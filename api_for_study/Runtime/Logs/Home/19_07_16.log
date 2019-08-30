@@ -1,0 +1,121 @@
+[ 2019-07-16T16:36:10+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 0,10   [ RunTime:0.0004s ]
+
+[ 2019-07-16T16:36:22+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 10,10   [ RunTime:0.0003s ]
+
+[ 2019-07-16T16:36:26+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 20,10   [ RunTime:0.0005s ]
+
+[ 2019-07-16T16:36:30+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 30,10   [ RunTime:0.0005s ]
+
+[ 2019-07-16T16:36:31+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 40,10   [ RunTime:0.0004s ]
+
+[ 2019-07-16T16:39:46+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 0,10   [ RunTime:0.0003s ]
+
+[ 2019-07-16T16:40:09+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 0,10   [ RunTime:0.0003s ]
+
+[ 2019-07-16T16:40:26+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 10,10   [ RunTime:0.0003s ]
+
+[ 2019-07-16T16:40:27+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 20,10   [ RunTime:0.0004s ]
+
+[ 2019-07-16T16:40:28+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 30,10   [ RunTime:0.0004s ]
+
+[ 2019-07-16T16:40:29+08:00 ] ::1 /api_for_study/Lfcourses/getCourses
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+SQL: SHOW COLUMNS FROM `js_lfcourses` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `js_lfcourses` WHERE `field` = 'jap' AND `status` = 1 AND `orders` = 1 LIMIT 40,10   [ RunTime:0.0004s ]
+

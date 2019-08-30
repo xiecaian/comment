@@ -1,0 +1,225 @@
+[ 2019-05-09T13:05:36+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T13:05:45+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T14:02:16+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+ERR: SQLSTATE[HY000] [2002] Connection refused
+
+[ 2019-05-09T14:02:21+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+ERR: SQLSTATE[HY000] [2002] Connection refused
+
+[ 2019-05-09T14:02:47+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T14:11:16+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T14:19:56+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T15:03:58+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T15:04:03+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T15:31:36+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T15:31:41+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T16:32:40+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T16:34:11+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T16:34:12+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T16:34:12+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T16:34:12+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T16:34:15+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+ERR: SQLSTATE[HY000] [2002] No such file or directory
+
+[ 2019-05-09T17:56:12+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001956s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+
+[ 2019-05-09T17:56:13+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+
+[ 2019-05-09T17:56:33+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+
+[ 2019-05-09T17:56:34+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+
+[ 2019-05-09T17:56:34+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+
+[ 2019-05-09T17:56:34+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+ERR: 1932:Table 'study.js_mobile_phone' doesn't exist in engine
+ [ SQL语句 ] : SHOW COLUMNS FROM `js_mobile_phone`
+

@@ -1,0 +1,176 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset = 'utf-8'/>
+        <title>comment</title>
+        <link rel="stylesheet" type= 'text/css' href="../CSS/css/font-awesome.css">
+        <link rel="stylesheet" type= 'text/css' href="../CSS/common.css">
+        <link rel="stylesheet" type= 'text/css' href="../CSS/comment.css">
+    </head>
+    <body>
+        <div class="commentwrap"> 
+            <div class="mask">
+                <div class="comment-wrap">
+                    <p class="title">评论框</p>
+                    <a href="javascript:;" class="fa fa-times J_closeBtn"></a>
+                    <p class="question">您觉得课程怎么样？</p>
+                    <div class="comment-star J_stars">
+                        <i class="fa fa-star J_hoverStar active" data-count="1" data-title="差评！课程太差了，我要吐槽！"></i>
+                        <i class="fa fa-star J_hoverStar active" data-count="2" data-title="勉强中评！课程不满意"></i>
+                        <i class="fa fa-star J_hoverStar active" data-count="3" data-title="中评！课程一般"></i>
+                        <i class="fa fa-star J_hoverStar active" data-count="4" data-title="好评！课程还不错，继续保持！"></i>
+                        <i class="fa fa-star J_hoverStar active" data-count="5" data-title="五星好评！课程非常棒，点赞！"></i>
+                        <span class="star-label J_starTip">五星好评！课程非常棒，点赞！</span>
+                    </div>
+                    <div class="inputWrap">
+                            <textarea type="text" class="comment" placeholder="请尽可能详尽描述您的学习经历，例如学习成果，老师讲课风格，课程内容等"></textarea>
+                            <p class="text-tip">
+                                <span class="textNum">0</span>/1000
+                            </p>  
+                     </div>
+                    <p class="remark">不少于15字，评价多于100字将有机会获取200积分奖励哦~</p>
+                    <button class="comment-btn submit J_submitBtn disabled " disabled="disabled">提交评价</button>   
+                </div>
+            </div>
+        </div>
+        <div class="showWrap">
+            <div class="showheader">
+                <div class="btnhd">
+                    <button type="button" class="comment-btn J_openBtn">立即评论</button>
+                </div>
+                <div class="score-bd">
+                    <h3 class="precentWrap">
+                        <span class="percent ">-</span>
+                        <p class="percent-title">好评度</p>
+                    </h3>
+                    <ul class="show-list">
+                        <li class="list-item"  data-id="0">
+                            <i class="radio-icon cur"></i>
+                            <span class = 'radio-text '>全部评价(<span class="num">5</span>)</span>
+                        </li>
+                        <li class="list-item"  data-id="1">
+                            <i class="radio-icon"></i>
+                            <span class = 'radio-text'>好评度(<span class="num">5</span>)</span>
+                        </li>
+                        <li class="list-item"  data-id="2">
+                            <i class="radio-icon"></i>
+                            <span class = 'radio-text'>中评(<span class="num">5</span>)</span>
+                        </li>
+                        <li class="list-item"  data-id="3">
+                            <i class="radio-icon"></i>
+                            <span class = 'radio-text'>差评(<span class="num">5</span>)</span>
+                        </li>
+                    </ul>
+                </div>
+             
+                    <!--评论展示-->
+                    <div class="warningWarp">
+                            <i class="fa fa-spinner fa-spin"></i>
+                        </div>
+                <div class="commmonShowWarp">
+                       
+                     <!--
+                        <div class="firstCommentWarp">
+                                <div class="imgWarp">           
+                                    <img class="img"src="../IMG/1.jpg" alt="noimg1">
+                                    <p class="nickname">{{nickname}}</p>
+                                </div>
+                                <div class="textWarp">
+                                    <h3 class="starWarp">
+                                        <i class="fa fa-star  {{isActive}}"></i>
+                                        <i class="fa fa-star  {{isActive}}"></i>
+                                        <i class="fa fa-star  {{isActive}}"></i>
+                                        <i class="fa fa-star  {{isActive}}"></i>
+                                        <i class="fa fa-star  {{isActive}}"></i>
+                                    </h3>
+                                    <p class="returnComment">
+                                        {{comment}}
+                                    </p>
+                                    <h5 class="time">
+                                        {{time}}
+                                    </h5>
+                                </div>
+                        </div>
+                        <div class="firstCommentWarp">
+                            <div class="imgWarp">           
+                                <img class="img"src="../IMG/1.jpg" alt="noimg1">
+                                <p class="nickname">{{nickname}}</p>
+                            </div>
+                            <div class="textWarp">
+                                <h3 class="starWarp">
+                                    <i class="fa fa-star {{isActive}}"></i>
+                                    <i class="fa fa-star {{isActive}}"></i>
+                                    <i class="fa fa-star {{isActive}}"></i>
+                                    <i class="fa fa-star {{isActive}}"></i>
+                                    <i class="fa fa-star {{isActive}}"></i>
+                                </h3>
+                                <p class="returnComment">
+                                    {{comment}}
+                                </p>
+                                <h5 class="time">
+                                    {{time}}
+                                </h5>
+                            </div>                 
+                        </div>
+                        <div class="addCommentWarp">           
+                                <div class="addtextWarp">
+                                <p class="addComment">
+                                        追加评论:<span>{{addComment}}</span>
+                                </p>
+                                <h5 class="time">
+                                        {{time}}
+                                </h5>
+                                </div>
+                            </div>
+                       -->
+                </div>
+                
+                <!--警告展示（评价或分页的切换时出现）-->
+               
+                <div class = 'pagingWarp'>
+                </div>
+                </div>
+        </div>
+        
+       
+        <!--第一次评论展示-->
+        <script type = 'text/tpl' id = 'J_firstComment'>
+            <div class="imgWarp">           
+                <img class="img"src="../IMG/{{avatar}}" alt="noimg1">
+                <p class="nickname">{{nickname}}</p>
+            </div>
+            <div class="textWarp">
+                <h3 class="starWarp">
+                    <i class="fa fa-star {{isActive}}"></i>
+                    <i class="fa fa-star {{isActive}}"></i>
+                    <i class="fa fa-star {{isActive}}"></i>
+                    <i class="fa fa-star {{isActive}}"></i>
+                    <i class="fa fa-star {{isActive}}"></i>
+                </h3>
+                <p class="returnComment">
+                    {{comment}}
+                </p>
+                <h5 class="time">
+                    {{time}}
+                </h5>
+            </div>
+              
+        </script>
+        <!--第二次评论展示-->
+        <script type = 'text/tpl' id = 'J_secondComment'>
+            <div class="addCommentWarp">           
+                <div class="addtextWarp">
+                <p class="addComment">
+                        追加评论:<span>{{addComment}}</span>
+                </p>
+                <h5 class="time">
+                        {{time}}
+                </h5>
+                </div>
+            </div>
+        </script>
+        <script type = 'text/javascript' src = '../JS/utils1.js'></script>
+        <script type = 'text/javascript' src = '../JS/module/comment/comment_module.js'></script>
+        <script type = 'text/javascript' src = '../JS/comment.js'></script>
+    </body>
+</html>

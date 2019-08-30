@@ -1,0 +1,1898 @@
+[ 2019-04-01T20:36:21+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2019-04-01T20:36:43+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: tel /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Controller/UserController.class.php 第 97 行.
+
+[ 2019-04-01T20:37:21+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2019-04-01T20:37:34+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+
+[ 2019-04-01T20:39:08+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2019-04-01T20:39:33+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2019-04-01T20:39:38+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 131 行.
+
+[ 2019-04-01T20:40:15+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2019-04-01T20:40:20+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 131 行.
+
+[ 2019-04-01T20:40:53+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2019-04-01T20:40:58+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 125 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 126 行.
+
+[ 2019-04-01T20:41:19+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+
+[ 2019-04-01T20:41:35+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2019-04-01T20:41:52+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+
+[ 2019-04-01T20:41:52+08:00 ] ::1 /api_for_study/User/verify?rand=0.29899576451921783
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2019-04-01T20:42:20+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+
+[ 2019-04-01T20:42:20+08:00 ] ::1 /api_for_study/User/verify?rand=0.2979950865278489
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000252s ]
+
+[ 2019-04-01T20:42:33+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+
+[ 2019-04-01T20:42:33+08:00 ] ::1 /api_for_study/User/verify?rand=0.5844545035046
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2019-04-01T20:43:14+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+
+[ 2019-04-01T20:43:14+08:00 ] ::1 /api_for_study/User/verify?rand=0.29339527299825163
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2019-04-01T20:43:21+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+
+[ 2019-04-01T20:43:56+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2019-04-01T20:44:05+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2019-04-01T20:44:11+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 123 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 124 行.
+
+[ 2019-04-01T20:44:28+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+
+[ 2019-04-01T20:45:13+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+
+[ 2019-04-01T20:45:13+08:00 ] ::1 /api_for_study/User/verify?rand=0.2434639575776416
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2019-04-01T20:45:20+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+
+[ 2019-04-01T20:45:30+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+
+[ 2019-04-01T20:45:30+08:00 ] ::1 /api_for_study/User/verify?rand=0.5401448300331175
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000254s ]
+
+[ 2019-04-01T20:45:34+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+
+[ 2019-04-01T20:46:31+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2019-04-01T20:46:35+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2019-04-01T20:46:52+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+
+[ 2019-04-01T20:46:53+08:00 ] ::1 /api_for_study/User/verify?rand=0.5095454440018454
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2019-04-01T20:47:00+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 123 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 124 行.
+
+[ 2019-04-01T20:47:05+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+
+[ 2019-04-01T20:47:05+08:00 ] ::1 /api_for_study/User/verify?rand=0.8782023060183028
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2019-04-01T20:47:10+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+
+[ 2019-04-01T20:47:10+08:00 ] ::1 /api_for_study/User/verify?rand=0.821904555357521
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2019-04-01T20:53:46+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001272s ]
+
+[ 2019-04-01T20:53:51+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 123 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 124 行.
+
+[ 2019-04-01T20:54:04+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+
+[ 2019-04-01T20:57:04+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2019-04-01T20:57:09+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Illegal string offset 'tel' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 128 行.
+NOTIC: [2] Illegal string offset 'telcode' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 129 行.
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 132 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 133 行.
+
+[ 2019-04-01T20:57:19+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+
+[ 2019-04-01T20:57:53+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2019-04-01T20:58:08+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Illegal string offset 'tel' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 129 行.
+NOTIC: [2] Illegal string offset 'telcode' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 133 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 134 行.
+
+[ 2019-04-01T20:59:06+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2019-04-01T20:59:11+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Illegal string offset 'tel' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 129 行.
+NOTIC: [2] Illegal string offset 'telcode' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 133 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 134 行.
+
+[ 2019-04-01T21:00:00+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2019-04-01T21:00:05+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Illegal string offset 'tel' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 129 行.
+NOTIC: [2] Illegal string offset 'telcode' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 133 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 134 行.
+
+[ 2019-04-01T21:00:50+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2019-04-01T21:00:55+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 133 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 134 行.
+
+[ 2019-04-01T21:02:10+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2019-04-01T21:02:19+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 133 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 134 行.
+
+[ 2019-04-01T21:02:30+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+
+[ 2019-04-01T21:13:46+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2019-04-01T21:13:53+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 166 行.
+
+[ 2019-04-01T21:14:15+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000210s ]
+
+[ 2019-04-01T21:14:15+08:00 ] ::1 /api_for_study/User/verify?rand=0.18870371732680713
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000229s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000244s ]
+
+[ 2019-04-01T21:14:49+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2019-04-01T21:15:08+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+
+[ 2019-04-01T21:15:08+08:00 ] ::1 /api_for_study/User/verify?rand=0.045517996180330034
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2019-04-01T21:15:25+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 65 行.
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 66 行.
+SQL: INSERT INTO `js_users` (`username`,`nickname`,`password`,`ident_code`,`token`,`timeout`) VALUES ('msw_Ki4Bjb1554124525','msw_Ki4Bjb1554124525','95178bc4d25fed3465c109f31599c6c9','a0b7c47ba3570fda9534d6919e3fe602','mCfGCatwOHdXjGrwTamqqJ3qMdyN2eQP','1556716525') [ RunTime:0.0080s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 89 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 90 行.
+
+[ 2019-04-01T21:15:25+08:00 ] ::1 /api_for_study/User/verify?rand=0.7532712798431049
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000240s ]
+
+[ 2019-04-01T21:15:39+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+
+[ 2019-04-01T21:15:39+08:00 ] ::1 /api_for_study/User/verify?rand=0.3349485013409814
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000229s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000244s ]
+
+[ 2019-04-01T21:16:41+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0015s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 65 行.
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 66 行.
+SQL: INSERT INTO `js_users` (`username`,`nickname`,`password`,`ident_code`,`token`,`timeout`,`phone_number`) VALUES ('msw_iecZXM1554124600','msw_iecZXM1554124600','95178bc4d25fed3465c109f31599c6c9','b76c396c19dea8cb7c2de586609e17c4','R0r0zgsDMbj8QU1BP4Y6dIBpAqBvQS8t','1556716600','17600404706') [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 90 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 91 行.
+
+[ 2019-04-01T21:16:41+08:00 ] ::1 /api_for_study/User/verify?rand=0.7398432211173778
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2019-04-01T21:17:55+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2019-04-01T21:17:55+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = 'b76c396c19dea8cb7c2de586609e17c4' AND `token` = 'R0r0zgsDMbj8QU1BP4Y6dIBpAqBvQS8t' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 125 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 126 行.
+
+[ 2019-04-01T21:17:58+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2019-04-01T21:18:10+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0015s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 65 行.
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 66 行.
+SQL: INSERT INTO `js_users` (`username`,`nickname`,`password`,`ident_code`,`token`,`timeout`,`phone_number`) VALUES ('msw_NQiyUW1554124690','msw_NQiyUW1554124690','95178bc4d25fed3465c109f31599c6c9','51678217eba201f004300b4e2de9388e','VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs','1556716690','17600404706') [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 90 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 91 行.
+
+[ 2019-04-01T21:18:10+08:00 ] ::1 /api_for_study/User/verify?rand=0.15142923613504222
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000243s ]
+
+[ 2019-04-01T21:18:11+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000357s ]
+
+[ 2019-04-01T21:18:11+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:13+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2019-04-01T21:18:13+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:13+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2019-04-01T21:18:13+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0014s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2019-04-01T21:18:14+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:15+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2019-04-01T21:18:15+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:15+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2019-04-01T21:18:15+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:15+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2019-04-01T21:18:15+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '51678217eba201f004300b4e2de9388e' AND `token` = 'VTcgmWaYh80kzvfVUOxCFO0cFSepPsXs' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:18:16+08:00 ] ::1 /api_for_study/User/flogout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000212s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000225s ]
+
+[ 2019-04-01T21:18:16+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2019-04-01T21:20:08+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2019-04-01T21:20:20+08:00 ] ::1 /api_for_study/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 7 行.
+SQL: SELECT * FROM `js_users` WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `password` FROM `js_users` WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `nickname` FROM `js_users` WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 23 行.
+SQL: UPDATE `js_users` SET `ident_code`='8e051f7b5a3bac79ea518093059d3d0f',`token`='Ej9vpmS4gwXaRgvgWhwp0L85xPt9ViPY',`timeout`='1556716820' WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) [ RunTime:0.0025s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 45 行.
+
+[ 2019-04-01T21:20:20+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2019-04-01T21:20:20+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'Ej9vpmS4gwXaRgvgWhwp0L85xPt9ViPY' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'Ej9vpmS4gwXaRgvgWhwp0L85xPt9ViPY' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:20:31+08:00 ] ::1 /api_for_study/User/flogout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000238s ]
+
+[ 2019-04-01T21:20:31+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2019-04-01T21:20:42+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '15608098651' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined offset: 1 /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 167 行.
+
+[ 2019-04-01T21:22:05+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '18483636818' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined offset: 1 /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 167 行.
+
+[ 2019-04-01T21:24:47+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '15608098651' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 167 行.
+
+[ 2019-04-01T21:24:59+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0014s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 65 行.
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 66 行.
+SQL: INSERT INTO `js_users` (`username`,`nickname`,`password`,`ident_code`,`token`,`timeout`,`phone_number`) VALUES ('msw_lBBIOp1554125099','msw_lBBIOp1554125099','95178bc4d25fed3465c109f31599c6c9','8519817391e87034d5813994463ab39d','2oTPLuorYtlhWEKf6QTx7B5b0m0J6saq','1556717099','15608098651') [ RunTime:0.0299s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 90 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 91 行.
+
+[ 2019-04-01T21:24:59+08:00 ] ::1 /api_for_study/User/verify?rand=0.25903214945020014
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002327s ]
+
+[ 2019-04-01T21:24:59+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2019-04-01T21:24:59+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8519817391e87034d5813994463ab39d' AND `token` = '2oTPLuorYtlhWEKf6QTx7B5b0m0J6saq' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8519817391e87034d5813994463ab39d' AND `token` = '2oTPLuorYtlhWEKf6QTx7B5b0m0J6saq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:25:05+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2019-04-01T21:25:05+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8519817391e87034d5813994463ab39d' AND `token` = '2oTPLuorYtlhWEKf6QTx7B5b0m0J6saq' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8519817391e87034d5813994463ab39d' AND `token` = '2oTPLuorYtlhWEKf6QTx7B5b0m0J6saq' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:25:06+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2019-04-01T21:25:06+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8519817391e87034d5813994463ab39d' AND `token` = '2oTPLuorYtlhWEKf6QTx7B5b0m0J6saq' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8519817391e87034d5813994463ab39d' AND `token` = '2oTPLuorYtlhWEKf6QTx7B5b0m0J6saq' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:44:29+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2019-04-01T21:44:29+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8519817391e87034d5813994463ab39d' AND `token` = '2oTPLuorYtlhWEKf6QTx7B5b0m0J6saq' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8519817391e87034d5813994463ab39d' AND `token` = '2oTPLuorYtlhWEKf6QTx7B5b0m0J6saq' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:44:30+08:00 ] ::1 /api_for_study/User/flogout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000234s ]
+
+[ 2019-04-01T21:44:30+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2019-04-01T21:45:52+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000708s ]
+
+[ 2019-04-01T21:55:29+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001962s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '17600404706' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 167 行.
+
+[ 2019-04-01T21:56:00+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+
+[ 2019-04-01T21:56:00+08:00 ] ::1 /api_for_study/User/verify?rand=0.40656215134151497
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001448s ]
+
+[ 2019-04-01T21:56:12+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0018s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 65 行.
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 66 行.
+SQL: INSERT INTO `js_users` (`username`,`nickname`,`password`,`ident_code`,`token`,`timeout`,`phone_number`) VALUES ('msw_qtE7MW1554126972','msw_qtE7MW1554126972','95178bc4d25fed3465c109f31599c6c9','614160621b05092dabc401a4455a6548','KOjuAZCBwVY7tNkYkJXc3vYAXsH7jF1p','1556718972','17600404706') [ RunTime:0.0027s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 90 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 91 行.
+
+[ 2019-04-01T21:56:12+08:00 ] ::1 /api_for_study/User/verify?rand=0.9327965384715953
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002141s ]
+
+[ 2019-04-01T21:56:13+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2019-04-01T21:56:13+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '614160621b05092dabc401a4455a6548' AND `token` = 'KOjuAZCBwVY7tNkYkJXc3vYAXsH7jF1p' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '614160621b05092dabc401a4455a6548' AND `token` = 'KOjuAZCBwVY7tNkYkJXc3vYAXsH7jF1p' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:56:15+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2019-04-01T21:56:15+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '614160621b05092dabc401a4455a6548' AND `token` = 'KOjuAZCBwVY7tNkYkJXc3vYAXsH7jF1p' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '614160621b05092dabc401a4455a6548' AND `token` = 'KOjuAZCBwVY7tNkYkJXc3vYAXsH7jF1p' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:56:16+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2019-04-01T21:56:16+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '614160621b05092dabc401a4455a6548' AND `token` = 'KOjuAZCBwVY7tNkYkJXc3vYAXsH7jF1p' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '614160621b05092dabc401a4455a6548' AND `token` = 'KOjuAZCBwVY7tNkYkJXc3vYAXsH7jF1p' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:56:16+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2019-04-01T21:56:16+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '614160621b05092dabc401a4455a6548' AND `token` = 'KOjuAZCBwVY7tNkYkJXc3vYAXsH7jF1p' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '614160621b05092dabc401a4455a6548' AND `token` = 'KOjuAZCBwVY7tNkYkJXc3vYAXsH7jF1p' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:56:18+08:00 ] ::1 /api_for_study/User/flogout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2019-04-01T21:56:18+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000216s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002072s ]
+
+[ 2019-04-01T21:56:28+08:00 ] ::1 /api_for_study/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 7 行.
+SQL: SELECT * FROM `js_users` WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `password` FROM `js_users` WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 19 行.
+
+[ 2019-04-01T21:56:33+08:00 ] ::1 /api_for_study/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 7 行.
+SQL: SELECT * FROM `js_users` WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `password` FROM `js_users` WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `nickname` FROM `js_users` WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 23 行.
+SQL: UPDATE `js_users` SET `ident_code`='8e051f7b5a3bac79ea518093059d3d0f',`token`='q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4',`timeout`='1556718993' WHERE ( `username` = '17600404706' OR `phone_number` = '17600404706' ) [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 45 行.
+
+[ 2019-04-01T21:56:33+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2019-04-01T21:56:33+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:56:36+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2019-04-01T21:56:36+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:56:37+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2019-04-01T21:56:37+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:56:37+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2019-04-01T21:56:37+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:56:38+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000687s ]
+
+[ 2019-04-01T21:56:38+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = '8e051f7b5a3bac79ea518093059d3d0f' AND `token` = 'q2JD1e8B93p5zy8CGoS9BsD1aUa9a8B4' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:58:24+08:00 ] ::1 /api_for_study/User/flogout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002198s ]
+
+[ 2019-04-01T21:58:24+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2019-04-01T21:58:38+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '15608098651' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2019-04-01T21:58:57+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001032s ]
+
+[ 2019-04-01T21:59:05+08:00 ] ::1 /api_for_study/User/sendTelCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `js_users` WHERE `phone_number` = '15608098651' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 167 行.
+
+[ 2019-04-01T21:59:29+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+
+[ 2019-04-01T21:59:29+08:00 ] ::1 /api_for_study/User/verify?rand=0.7281104939663889
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2019-04-01T21:59:34+08:00 ] ::1 /api_for_study/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 65 行.
+NOTIC: [8] Undefined variable: salt /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 66 行.
+SQL: INSERT INTO `js_users` (`username`,`nickname`,`password`,`ident_code`,`token`,`timeout`,`phone_number`) VALUES ('msw_MEv3o21554127174','msw_MEv3o21554127174','95178bc4d25fed3465c109f31599c6c9','e98d9d8d4b0d53e29f0bf4f32c8e3516','iaWEbI85SVOqPAc5bC6NiiWPt3ztNXC2','1556719174','15608098651') [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 90 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 91 行.
+
+[ 2019-04-01T21:59:34+08:00 ] ::1 /api_for_study/User/verify?rand=0.037475819917721864
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2019-04-01T21:59:35+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2019-04-01T21:59:35+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = 'e98d9d8d4b0d53e29f0bf4f32c8e3516' AND `token` = 'iaWEbI85SVOqPAc5bC6NiiWPt3ztNXC2' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = 'e98d9d8d4b0d53e29f0bf4f32c8e3516' AND `token` = 'iaWEbI85SVOqPAc5bC6NiiWPt3ztNXC2' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:59:37+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2019-04-01T21:59:37+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = 'e98d9d8d4b0d53e29f0bf4f32c8e3516' AND `token` = 'iaWEbI85SVOqPAc5bC6NiiWPt3ztNXC2' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = 'e98d9d8d4b0d53e29f0bf4f32c8e3516' AND `token` = 'iaWEbI85SVOqPAc5bC6NiiWPt3ztNXC2' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:59:38+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2019-04-01T21:59:38+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = 'e98d9d8d4b0d53e29f0bf4f32c8e3516' AND `token` = 'iaWEbI85SVOqPAc5bC6NiiWPt3ztNXC2' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = 'e98d9d8d4b0d53e29f0bf4f32c8e3516' AND `token` = 'iaWEbI85SVOqPAc5bC6NiiWPt3ztNXC2' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+
+[ 2019-04-01T21:59:39+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2019-04-01T21:59:39+08:00 ] ::1 /api_for_study/User/checkAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `js_users` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `js_users` WHERE `ident_code` = 'e98d9d8d4b0d53e29f0bf4f32c8e3516' AND `token` = 'iaWEbI85SVOqPAc5bC6NiiWPt3ztNXC2' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `timeout` FROM `js_users` WHERE `ident_code` = 'e98d9d8d4b0d53e29f0bf4f32c8e3516' AND `token` = 'iaWEbI85SVOqPAc5bC6NiiWPt3ztNXC2' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant error_code - assumed 'error_code' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 108 行.
+NOTIC: [8] Use of undefined constant error_msg - assumed 'error_msg' /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/UsersModel.class.php 第 109 行.
+

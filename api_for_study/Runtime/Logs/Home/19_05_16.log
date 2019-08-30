@@ -1,0 +1,24 @@
+[ 2019-05-16T17:10:05+08:00 ] ::1 /api_for_study/index.php/List/getCourseListForManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `js_course` [ RunTime:0.0163s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_course` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] A non-numeric value encountered /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/CourseModel.class.php 第 13 行.
+SQL: SELECT * FROM `js_course` WHERE `status` = 1 LIMIT 0,6   [ RunTime:0.0002s ]
+
+[ 2019-05-16T17:10:15+08:00 ] ::1 /api_for_study/index.php/List/getCourseListForManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+SQL: SHOW COLUMNS FROM `js_course` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_course` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] A non-numeric value encountered /Applications/XAMPP/xamppfiles/htdocs/api_for_study/Home/Model/CourseModel.class.php 第 13 行.
+SQL: SELECT * FROM `js_course` WHERE `status` = 1 LIMIT 0,6   [ RunTime:0.0001s ]
+

@@ -1,0 +1,72 @@
+[ 2019-04-12T16:01:20+08:00 ] ::1 /api_for_study/Comment/getComments
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `js_comment` [ RunTime:0.0958s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_comment` WHERE `status` = 1 AND `is_add_comment` = 0 LIMIT 1   [ RunTime:0.0288s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_comment` WHERE `status` = 1 AND `is_add_comment` = 0 AND `star_num` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_comment` WHERE `status` = 1 AND `is_add_comment` = 0 AND ( `star_num` <= 4 AND `star_num` >= 2  ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_comment` WHERE `status` = 1 AND `is_add_comment` = 0 AND ( `star_num` <= 4 AND `star_num` >= 2  ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_comment` WHERE `status` = 1 AND `is_add_comment` = 0 AND ( `star_num` <= 4 AND `star_num` >= 2  ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_comment` WHERE `status` = 1 AND `is_add_comment` = 0 AND `star_num` = 5 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_comment` WHERE `status` = 1 AND `is_add_comment` = 0 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `js_comment` WHERE `status` = 1 AND `is_add_comment` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `js_user` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `js_user` WHERE ( 1=1 AND id='20' ) LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `js_user` WHERE ( 1=1 AND id='19' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `js_user` WHERE ( 1=1 AND id='18' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `js_user` WHERE ( 1=1 AND id='17' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `js_user` WHERE ( 1=1 AND id='16' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `js_comment` WHERE `add_id` = 48 AND `is_add_comment` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `js_comment` WHERE `add_id` = 47 AND `is_add_comment` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `js_comment` WHERE `add_id` = 46 AND `is_add_comment` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `js_comment` WHERE `add_id` = 45 AND `is_add_comment` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `js_comment` WHERE `add_id` = 44 AND `is_add_comment` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2019-04-12T16:02:04+08:00 ] ::1 /api_for_study/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005405s ]
+
+[ 2019-04-12T16:02:34+08:00 ] ::1 /api_for_study/List/getCourseListForManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `js_course` [ RunTime:0.0186s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_course` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `js_course` WHERE `status` = 1 LIMIT 0,6   [ RunTime:0.0002s ]
+
+[ 2019-04-12T16:02:37+08:00 ] ::1 /api_for_study/List/getCourseListForManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `js_course` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_course` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `js_course` WHERE `status` = 0 LIMIT 0,6   [ RunTime:0.0002s ]
+
+[ 2019-04-12T16:02:39+08:00 ] ::1 /api_for_study/List/getCourseListForManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `js_course` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `js_course` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `js_course` WHERE `status` = 1 LIMIT 0,6   [ RunTime:0.0001s ]
+

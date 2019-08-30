@@ -1,0 +1,287 @@
+html{
+    background-color:#F4F4F4;
+}
+
+/*负责显示的*/
+.showWrap{
+    position: relative;
+    width: 860px;
+    min-height: 532px;
+    margin: 100px auto;
+    padding: 0 20px 0 20px;
+    background-color:#FFF;
+}
+
+.showWrap .btnHd{
+    width: 820px;
+    height: 84px;
+    padding: 20px 0;
+}
+
+.showWrap .comment-btn{
+    float:right;
+    width: 120px;
+    height: 44px;
+    line-height: 44px;
+    background-color: #23b8ff;
+    color: #424242;
+    border-radius: 3px; 
+    margin: 10px 0;
+    font-size: 16px; 
+}
+
+.score-bd{
+    position: relative;
+    left: 0;
+    top: 64px; 
+    padding: 10px 0;  
+    background-color: #f4f4f4;
+}
+
+.score-bd .precentWrap{
+    position: absolute;
+    left: 0;
+    top:0;
+    width: 125px;
+	height: 41px;
+	border-right: 1px solid #e5e5e5;
+	text-align: center;
+	line-height: 30px;
+}
+.score-bd .percent{
+    display: block;
+	color: #e85308;
+    font-size: 32px; 
+}
+.score-bd .precentWrap p{
+    width: 100%;
+    font-size: 14px;
+    color: #333;
+}
+
+.score-bd .show-list{
+    margin-left: 126px; 
+    height: 41px;
+}
+
+.score-bd .list-item{
+    float: left;
+    margin-left: 20px; 
+}
+
+.score-bd .list-item span{
+    display: inline-table;
+    height: 41px;
+    line-height: 41px;
+}
+
+.showWrap .radio-icon{
+	position: relative;
+	display: inline-block;
+    width: 18px;
+    height: 18px;
+    border: 2px solid #cdcdcd;
+    border-radius: 50%;
+    box-sizing: border-box;
+    vertical-align: -3.5px;
+}
+
+.showWrap .radio-icon.cur:before{
+	content: "";
+	display: block;
+	position: absolute;
+	top: 3px;
+	left: 3px;
+	width: 8px;
+	height: 8px;
+	background-color: rgb(35, 184, 255);
+	border-radius: 50%;
+}
+.showWrap .radio-icon:hover{
+	border-color: rgb(35, 184, 255);
+}
+
+/*负责渲染的数据*/
+.commmonShowWarp {
+    margin: 63px 20px 20px 0px;
+}
+
+.firstCommentWarp{
+    position: relative;
+    width: 820px;
+    padding: 0px 0px 20px 0px;
+    border-top: 1px solid #ddd;
+}
+.commmonShowWarp .imgWarp{
+   position: absolute;
+   left: 0px;
+   top:20px;
+   width: 80px;
+   text-align: center;
+}
+
+.commmonShowWarp .imgWarp .img{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+   
+}
+
+.commmonShowWarp .imgWarp  p{
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+}
+
+.commmonShowWarp .textWarp{
+    padding: 20px 0 20px 80px;
+}
+
+.commmonShowWarp .addCommentWarp{
+    height: 73px;
+    margin: 20px 0 0 80px; 
+    
+    border-top: 1px dashed #e5e5e5;  
+}
+
+.firstCommentWarp .starWarp .active{
+    color: #F4B43F;
+}
+
+.warningWarp{
+    position: absolute;
+    top: 200px;
+    left:400px;
+}
+
+/*负责输入的*/
+.commentwrap{  
+    display: none;
+	position: relative;
+    width: 715px;
+    height: 458px;    
+}
+
+.mask{
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, .5);
+}
+
+.comment-wrap{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -357.5px;
+	margin-top: -229px;
+	padding: 0 20px;
+	border-top: 4px solid #23b8ff;
+	width: 715px;
+	height: 458px;
+	background-color: #fff;
+}
+
+.commentwrap .comment-wrap .title{
+    display: inline-block;
+    width: 675px;
+    height: 20px;
+    margin-top:10px;
+    line-height: 20px; 
+    color: #ccc;
+}
+
+.commentwrap .comment-wrap a{
+    float: right;
+    height: 20px;
+    margin-top:10px;
+    margin-right:20px;
+    line-height: 20px;
+    color: #424242;
+}
+
+.commentwrap .comment-wrap a:hover{
+    color: #0000ff;
+}
+
+.commentwrap .comment-wrap.question{
+    height: 24px;
+    margin-top: 25px;
+    line-height: 24px;
+    text-align: center;
+    color: #000;
+    font-size: 18px;
+}
+
+.commentwrap .comment-star{
+    height: 25px;
+    margin: 35px 0 0 100px;
+    line-height: 25px;
+    cursor: pointer;
+
+}
+.commentwrap .comment-star .fa-star{
+   
+	font-size: 25px;
+	margin-right: 24px;
+	color: #cdcdcd;
+}
+
+.commentwrap .comment-star .fa-star.active{
+    color: #F4B43F;
+}
+.commentwrap .comment-star .star-label{
+	vertical-align: 3px;
+	font-size: 14px;
+	color: rgb(153, 153, 153);
+}
+
+.commentwrap .inputWrap{
+    position: relative;
+    width: 534px;
+    height: 129px;
+    margin: 50px auto 0;
+}
+.commentwrap .comment{
+    width: 100%;
+    height: 100%;
+    
+}
+.commentwrap .text-tip{
+    position: absolute;
+    right: 0;
+    bottom:0;
+    text-align: right;
+    width: 534px;
+    height: 20px;
+}
+
+.commentwrap .remark{
+    display: inline-block;
+    width: 634px;
+    height: 20px;
+    line-height: 20px; 
+    color: #ccc;
+    text-align: right;
+}
+
+.comment-btn{
+	float: right;
+	width: 120px;
+	height: 44px;
+	background-color: rgb(35, 184, 255);
+	border-radius: 3px;
+	color: rgb(255, 255, 255);
+	font-size: 16px;
+}
+
+.comment-btn.submit{
+	margin: 22px 71px;
+}
+
+.comment-btn.disabled{
+	background-color: #ABDBFC;
+}

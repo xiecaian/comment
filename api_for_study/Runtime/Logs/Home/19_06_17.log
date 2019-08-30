@@ -1,0 +1,35 @@
+[ 2019-06-17T20:36:03+08:00 ] ::1 /api_for_study/Shopping_cart/getGoodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `js_mobile_phone` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `js_mobile_phone` WHERE `status` = 1 ORDER BY id desc  [ RunTime:0.0009s ]
+
+[ 2019-06-17T20:36:05+08:00 ] ::1 /api_for_study/ShoppingCart/getGoodsDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+SQL: SHOW COLUMNS FROM `js_mobile_phone` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `js_mobile_phone` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2019-06-17T21:11:19+08:00 ] ::1 /api_for_study/Shopping_cart/getCartList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+SQL: SHOW COLUMNS FROM `js_shopping_cart` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `js_shopping_cart` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `js_shopping_cart` WHERE `uid` = 1 ORDER BY id desc  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `js_mobile_phone` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `js_mobile_phone` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT * FROM `js_mobile_phone` WHERE ( 1=1 AND id='10' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `js_mobile_phone` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.0002s ]
+
